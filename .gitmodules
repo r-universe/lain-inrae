@@ -5,6 +5,3 @@
 [submodule "TAD"]
 	path = TAD
 	url = https://github.com/cran/TAD
-[submodule "W4MRUtils"]
-	path = W4MRUtils
-	url = https://github.com/cran/W4MRUtils
